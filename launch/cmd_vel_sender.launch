@@ -1,0 +1,3 @@
+<launch>
+	<node pkg="cmd_vel_sender" type="cmd_vel_sender_node" name="cmd_vel_sender" output="screen"/>		
+</launch>
